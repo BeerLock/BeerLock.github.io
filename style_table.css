@@ -1,0 +1,15 @@
+th {
+    padding: 8px;
+    text-align: left;
+    font-weight: bold;
+    background-color: #eee;
+    font-family: sans-serif;
+}
+
+td {
+    padding: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ccc;
+    text-align: left;
+}
